@@ -1,0 +1,18 @@
+.accordion-circle {
+  border:1.5px solid green;    
+  height:40px;
+  width:40px;
+  border-radius:50%;
+  -moz-border-radius:50%;
+  -webkit-border-radius:50%;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.symbol {
+  line-height: 33px;
+  height: inherit;
+  user-select: none; 
+}
